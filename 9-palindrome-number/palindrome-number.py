@@ -3,4 +3,3 @@ class Solution:
         # Convert number to string and compare with its reverse
         s = str(x)
         return s == s[::-1]
-
